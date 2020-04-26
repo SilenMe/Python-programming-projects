@@ -1,0 +1,4 @@
+this is the project which tell you the info of the selected movie
+infos are:
+1=storyline
+2=playing trailer
